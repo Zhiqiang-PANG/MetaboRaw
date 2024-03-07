@@ -1,0 +1,4 @@
+Samples	Groups
+pzq_neg_20180203_1_3	sample
+pzq_neg_20180203_1_4	sample
+pzq_neg_20180203_1_5	sample
